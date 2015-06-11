@@ -1,6 +1,6 @@
 {
 	"name": "ui-scroll-mq1",
-	"version": "1.1.0",
+	"version": "1.1.2mqu",
 	"homepage": "https://github.com/krainet/NGScroller.git",
 	"description": "FORK from https://github.com/Hill30/NGScroller.git",
 	"main": "build/scripts/scroll.js",
