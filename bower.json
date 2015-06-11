@@ -1,8 +1,8 @@
 {
-	"name": "ui-scroll",
+	"name": "ui-scroll-mq1",
 	"version": "1.1.0",
 	"homepage": "https://github.com/Hill30/NGScroller.git",
-	"description": "AngularJS infinite scrolling module",
+	"description": "FORK from https://github.com/krainet/NGScroller.git",
 	"main": "build/scripts/scroll.js",
 	"keywords": [
 		"ui.scroll",
